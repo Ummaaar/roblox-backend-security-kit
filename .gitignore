@@ -1,0 +1,8 @@
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+/Packages
+/ServerPackages
+.DS_Store
