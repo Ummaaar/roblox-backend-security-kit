@@ -6,3 +6,9 @@ sourcemap.json
 /Packages
 /ServerPackages
 .DS_Store
+
+# Local tools and archives
+rojo.exe
+rojo/
+*.zip
+lancer-rojo.bat
